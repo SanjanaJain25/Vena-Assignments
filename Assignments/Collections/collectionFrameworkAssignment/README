@@ -1,0 +1,29 @@
+🧑‍🎓 Student & Course creation
+
+📌 Register students to courses with capacity validation and waitlisting
+
+❌ Drop students from courses and promote waitlisted ones
+
+📋 List enrolled students (sorted by name)
+
+🔎 Search students by branch
+
+📊 View courses sorted by enrollment or filter by instructor/credits
+
+/src
+ ├── model/
+ │    ├── Student.java
+ │    └── Course.java
+ ├── service/
+ │    └── RegistrationSystem.java
+ └── main/
+      └── Main.java
+
+--- University Course Registration System ---
+1. Register student to course
+2. Drop student from course
+3. List students in a course
+4. List students by branch
+5. List all courses sorted by enrollment
+6. Filter courses by instructor
+7. Exit
